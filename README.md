@@ -1,0 +1,1 @@
+# yoast-seo-premium-wordpress-plugin
